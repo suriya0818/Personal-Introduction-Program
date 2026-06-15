@@ -47,15 +47,21 @@ Test Case
 Input:
 
 Name: Suriya
+
 Age: 18
+
 Nationality: Indian
+
 Hobby: Playing Chess
 
 Output:
 
 Welcome Suriya
+
 You are 18 years old.
+
 You are from Indian.
+
 You love Playing Chess.
 
 Result: The program executed successfully and displayed the correct information.
